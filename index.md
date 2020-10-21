@@ -1,4 +1,20 @@
 ## Welcome to GitHub Pages
+<head>
+  	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164960443-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-164960443-1');
+	</script>
+	<link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,700" rel="stylesheet">
+ 	<meta name="google-site-verification" content="3HqwN4yVhcpcO5Tw3cBMnuju6q6_Xu3QaVSBZ7Xo9No"/>
+ 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meena Jagadeesan</title>
+  </head>
 
 You can use the [editor on GitHub](https://github.com/maheedharsap/maheedharsap.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
