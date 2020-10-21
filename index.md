@@ -12,8 +12,46 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+About 
+Mike  is a dedicated and ambitious high school student with a demonstrated passion for computer science and societal
+change. Since freshman year, Mike has attended national competitions for research, has won multiple awards, her papers have
+been published in scientific journals, and she has a great passion for STEM. Mike enjoys critical thinking, and she is in the Silver
+Division for the USA Computing Olympiad. She is self-driven and giving back to her community is very important to her. She is a twotime
+recipient of the President's Volunteer Service Gold Award and has over 200 hours of service. Mike has also worked to combat
+social issues affecting her community and continues to give back by mentoring students in CS. Mike also actively participates in
+Women in STEM organizations such as Girls Who Code and NCWIT. She has won the NCWIT Aspirations in Computing Award for the
+Northern Illinois Regional Affilate. In her free time, Mike trains in martial arts and she plays badminton
+
+
 ## Header 2
+Publications 
+A Novel Approach to the Diagnosis of Heart Disease Using Machine Learning and Deep Neural
+Networks, arXiv  07/2020
+A Novel Approach to the Diagnosis of Heart Disease using Machine Learning and Deep Neural
+Networks, Northwestern's Undergraduate Research and Arts Exposition Online Library   05/2019
+A Novel Approach to the Diagnosis of Heart Disease Using Machine Learning and Deep Neural
+Networks, IEEE
+Research will be published in IEEE Xplore Digital Library in the proceedings of IEEE MIT 2019 URTC
+Conference     10/2019
+Correlation Between GPS Error Signals and Geomagnetic Activity in the Ionosphere,
+Northwestern's Undergraduate Research and Arts Exposition Online Library
+
 ### Header 3
+Research projects 
+ Assistive Diagnostic Tool for Brain Tumor Detection and Segmentation using Computer Vision
+Computer Vision was applied and specifically a Mask R CNN segmentation model was implemented
+through transfer learning. Used Google Cloud VM Services in order to train and validate the model.
+09/2019 – 04/2020
+A Novel Approach to the Diagnosis of Heart Disease Using Machine Learning and Deep Neural
+Networks
+Used Google TensorFlow and scikit-learn to develop machine learning models and neural networks.
+Various optimization and hyper parametrization techniques were applied to increase the accuracy
+prediction rate of heart disease. At the end, an application was created for assisted heart disease
+diagnosis.
+10/2018 – 05/2019
+Correlation Between GPS Error Signals and Geomagnetic Acitivity
+Investigated the correlation between GPS errors and geomagnetic activity in the ionosphere. Specifics of
+this correlation and the affected values/systems were discovered as well.
 
 - Bulleted
 - List
